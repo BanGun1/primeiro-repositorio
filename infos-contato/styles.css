@@ -1,0 +1,40 @@
+section {
+    border: 5px solid #9999;
+    width: 320px;
+    margin: 64px auto;
+    padding: 24px;
+    border-radius: 12px;
+    background: #fffefc;
+}
+
+.socialMedia {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    height: 40px;
+}
+
+img {
+    width: 20px;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 20px;
+    color: #518782;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 12px;
+    color: darkgray;
+}
+
+a {
+    font-family: 'Montserrat';
+    font-size: 12px;
+    font-weight: 600;
+    color: #1b1b4c;
+}
